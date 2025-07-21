@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* // Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyCGUI973R1V3wh84FQCLr8A36mHnoDv_V0",
+  authDomain: "onlineexamapp-e7544.firebaseapp.com",
+  projectId: "onlineexamapp-e7544",
+  storageBucket: "onlineexamapp-e7544.firebasestorage.app",
+  messagingSenderId: "576891518381",
+  appId: "1:576891518381:web:8c848c52d0ee5eec78f524",
+  measurementId: "G-SS6T5XXQ66"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app); */
